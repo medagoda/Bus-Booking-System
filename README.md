@@ -5,9 +5,9 @@ A Bus ticket booking application made using MERN Stack (MongoDB, Express js, Rea
 The Bus ticket application is composed of the following Features:
 
 # Preview 🏞️ 🌅
-![Alt text](<Screenshot 2023-12-02 at 2.29.10 PM-1.png>)
-![Alt text](<Screenshot 2023-12-02 at 2.34.36 PM-2.png>)
-![Alt text](<Screenshot 2023-12-02 at 2.33.15 PM-1.png>) ![Alt text](<Screenshot 2023-12-02 at 2.33.38 PM-1.png>)
+![Alt text](1.png)
+![Alt text](2.png)
+
 
 ### Front-End
 
